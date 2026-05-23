@@ -1,0 +1,8 @@
+i<>.\src\bf4_logic.vhd
+i<>.\src\bf4_conc_CA.vhd
+i<>.\src\bf4_conc_WS.vhd
+i<>.\src\bf4_const.vhd
+i<>.\src\bf4_proc_IF.vhd
+i<>.\src\bf4_proc_CASE.vhd
+i<>.\src\bf4_Kxx_TB_runtest.v
+i<>.\src\bf4_Kxx_TB.vhd
