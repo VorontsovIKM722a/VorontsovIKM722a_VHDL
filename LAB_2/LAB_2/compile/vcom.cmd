@@ -1,1 +1,0 @@
--w -d D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/compile -s D:/students/IKM722a_Vorontsov/vhdl/LAB_2/library.cfg -j D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/projlib.cfg -work LAB_2 -O3 -e 100 -work LAB_2 -2002 D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/src/bf4_K2_TB.vhd 

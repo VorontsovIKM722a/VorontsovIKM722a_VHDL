@@ -1,7 +1,0 @@
-.\src\bf4_logic.vhd
-.\src\bf4_conc_CA.vhd
-.\src\bf4_conc_WS.vhd
-.\src\bf4_const.vhd
-.\src\bf4_proc_IF.vhd
-.\src\bf4_proc_CASE.vhd
-.\src\bf4_K16_TB.vhd
