@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+lab_2=.\LAB_2\LAB_2.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+lab_2=1
+[Settings]
+Active=lab_2

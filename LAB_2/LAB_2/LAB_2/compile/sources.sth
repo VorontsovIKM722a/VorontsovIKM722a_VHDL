@@ -1,0 +1,15 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/textio.vhd=S
+C:/Aldec/Active-HDL-Student-Edition/vlib/ieee/src/std_logic_1164.vhdl=S
+C:/Aldec/Active-HDL-Student-Edition/vlib/ieee/src/std_logic_1164-body.vhdl=S
+C:/Aldec/Active-HDL-Student-Edition/vlib/ieee/src/numeric_std.vhdl=S
+C:/Aldec/Active-HDL-Student-Edition/vlib/ieee/src/numeric_std-body.vhdl=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_proc_CASE.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_proc_IF.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_logic.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_const.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_conc_WS.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_conc_CA.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_Kxx_TB.vhd=S
+D:/students/IKM722a_Vorontsov/vhdl/LAB_2/LAB_2/LAB_2/src/bf4_K16_TB.vhd=S
